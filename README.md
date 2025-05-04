@@ -21,31 +21,3 @@ bash
 ✅ Exercice 1 — CV en HTML : cv.html
 🎯 Objectif
 Créer un CV en HTML/CSS respectant les bonnes pratiques de structure sémantique et de mise en forme, tout en appliquant des contraintes spécifiques de style.
-
-🧱 Contenu obligatoire
-Nom & prénom
-
-Compétences
-
-Parcours
-
-Utilisation des balises :
-
-<title> : titre de l'onglet
-
-<h1> : en-tête principal
-
-<ul>, <ol>, <li> : listes à puces et numérotées
-
-<table> : tableau structurant les informations
-
-🎨 Contraintes de style
-Une partie des styles définie dans une balise <style> située dans le <head> du document.
-
-Une autre partie intégrée via l’attribut style="..." directement sur une balise (inline CSS).
-
-Le tableau doit avoir :
-
-Des bordures visibles (solid)
-
-Un affichage fusionné (border-collapse: collapse)
