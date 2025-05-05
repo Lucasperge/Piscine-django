@@ -74,21 +74,22 @@ Chaque compétence (par exemple : HTML5, CSS3, jQuery, Python, PHP, Node.js) a �
 Stylisation avec le fichier CSS :
 
 Stylisation avec le fichier CSS
-Disposition :
-Les barres de progression ont été placées côte à côte, avec Frontend à gauche et Backend à droite, permettant une séparation claire et logique des compétences.
+Disposition
+Les barres de progression ont été placées côte à côte, avec Frontend à gauche et Backend à droite, permettant une séparation claire des compétences.
 
-Couleurs :
-Les barres de progression utilisent un dégradé de couleurs allant du bleu au rouge. Ce dégradé rend la page plus dynamique et visuellement intéressante, tout en reflétant l'intensité des compétences de manière intuitive.
+Couleurs
+Les barres de progression utilisent un dégradé allant du bleu au rouge, pour rendre la page visuellement intéressante et refléter l'intensité des compétences.
 
-Positionnement :
-Les pourcentages ont été positionnés juste au-dessus de chaque barre de progression. Cette disposition facilite la lecture et permet de voir immédiatement le niveau de chaque compétence sans confusion.
+Positionnement
+Les pourcentages sont alignés juste au-dessus de chaque barre de progression pour une lisibilité optimale.
 
-Organisation et présentation :
-Catégorisation claire : Les compétences sont divisées en deux groupes distincts : Frontend et Backend. Un titre en gras a été placé au-dessus de chaque groupe pour mieux structurer la page et faciliter la compréhension.
+Organisation et présentation
+Catégorisation claire : Les compétences sont divisées en deux groupes distincts : Frontend et Backend, avec un titre en gras au-dessus de chaque groupe.
 
-Agrandissement des barres : Les barres ont été agrandies pour qu'elles soient plus visibles et aient un impact visuel plus fort. Les pourcentages sont bien positionnés pour être en parfaite adéquation avec la barre de progression, à la hauteur de leur valeur respective.
+Agrandissement des barres : Les barres ont été agrandies et les pourcentages sont bien positionnés à la hauteur correspondante de chaque barre de progression.
 
-Résultat final :
-Le résultat final est une page web claire, esthétique et interactive. Les barres de progression colorées et les pourcentages visibles permettent une présentation efficace et engageante des compétences.
+Résultat final
+La page est claire et esthétique, avec des barres de progression colorées et des pourcentages visibles. Le tout est structuré de manière à être facilement lisible.
 
-Ce projet illustre bien l'utilisation combinée de HTML pour la structure et de CSS pour la mise en forme et la personnalisation de l'apparence d'une page web.
+Ce projet illustre l’utilisation combinée de HTML pour la structure et de CSS pour la mise en forme et la personnalisation de la page web.
+
