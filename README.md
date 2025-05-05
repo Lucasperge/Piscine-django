@@ -67,7 +67,7 @@ Exercice 3
 # Projet Compétences Web
 
 ## Introduction
-Dans ce projet, nous avons créé une page web affichant nos compétences avec des **barres de progression** pour visualiser le niveau de maîtrise des technologies Frontend et Backend.
+Dans ce projet, Création d'une page web affichant les compétences avec des **barres de progression** pour visualiser le niveau de maîtrise des technologies Frontend et Backend.
 
 ---
 
@@ -80,7 +80,7 @@ Les barres de progression sont organisées de la manière suivante :
 Cela permet de séparer clairement les compétences.
 
 ### Couleurs
-Nous avons utilisé un **dégradé de couleurs** allant du **bleu au rouge** sur les barres de progression pour une présentation dynamique.
+Utilisation d'un **dégradé de couleurs** allant du **bleu au rouge** sur les barres de progression pour une présentation dynamique.
 
 ### Positionnement
 Les **pourcentages** ont été placés juste au-dessus de chaque barre, à la hauteur exacte de leur valeur sur la barre de progression.
@@ -107,4 +107,3 @@ Cela montre une utilisation combinée de **HTML** pour la structure et de **CSS*
 ### Technologies utilisées :
 - **HTML5**  
 - **CSS3**
-
