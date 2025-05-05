@@ -62,31 +62,49 @@ Explication du code :
 
 `<input type="submit">` : bouton permettant de soumettre le formulaire.
 
-Description du projet
-Dans cet exercice, création d'une page web interactive pour afficher nos compétences sous forme de barres de progression. Le but était de structurer les informations avec HTML et de les styliser avec CSS afin de rendre la page à la fois claire et esthétique.
+Exercice 3
 
-Détails du processus :
-Création du fichier HTML :
+# Projet Compétences Web
 
-Structuration de la page avec des éléments HTML comme des titres (<h2>) et des listes (<ul>, <li>).
+## Introduction
+Dans ce projet, nous avons créé une page web affichant nos compétences avec des **barres de progression** pour visualiser le niveau de maîtrise des technologies Frontend et Backend.
 
-Chaque compétence (par exemple : HTML5, CSS3, jQuery, Python, PHP, Node.js) a été placée dans une barre de progression (<progress>), permettant de visualiser visuellement le niveau de chaque compétence.
-Stylisation avec le fichier CSS :
+---
 
-Stylisation avec le fichier CSS
-Disposition
-Les barres de progression ont été placées côte à côte, avec Frontend à gauche et Backend à droite, permettant une séparation claire des compétences.
+## Stylisation avec le fichier CSS
 
-Couleurs
-Les barres de progression utilisent un dégradé allant du bleu au rouge, rendant la page visuellement dynamique.
+### Disposition
+Les barres de progression sont organisées de la manière suivante :  
+- **Frontend** à gauche
+- **Backend** à droite  
+Cela permet de séparer clairement les compétences.
 
-Positionnement
-Les pourcentages ont été placés juste au-dessus de chaque barre pour une meilleure lisibilité.
+### Couleurs
+Nous avons utilisé un **dégradé de couleurs** allant du **bleu au rouge** sur les barres de progression pour une présentation dynamique.
 
-Organisation et présentation
-Catégorisation claire : Les compétences sont divisées en deux groupes distincts : Frontend et Backend, avec un titre en gras au-dessus de chaque groupe.
+### Positionnement
+Les **pourcentages** ont été placés juste au-dessus de chaque barre, à la hauteur exacte de leur valeur sur la barre de progression.
 
-Agrandissement des barres : Les barres ont été agrandies et les pourcentages sont placés correctement à la hauteur correspondante.
+---
 
-Résultat final
-Le résultat est une page web claire et esthétique, avec des barres de progression colorées et des pourcentages visibles. Le projet démontre l'utilisation de HTML pour la structure et de CSS pour la mise en forme et la personnalisation de la page.
+## Organisation et présentation
+
+Les compétences sont divisées en deux groupes :  
+- **Frontend** (HTML5, CSS3, jQuery)  
+- **Backend** (PHP, Python, Node.js)
+
+Les barres sont **plus longues**, et les pourcentages sont correctement alignés au-dessus des barres pour une meilleure visibilité.
+
+---
+
+## Résultat final
+
+Le projet aboutit à une page web claire et esthétique, affichant nos compétences avec des **barres de progression colorées** et des **pourcentages visibles**.  
+Cela montre une utilisation combinée de **HTML** pour la structure et de **CSS** pour la mise en forme.
+
+---
+
+### Technologies utilisées :
+- **HTML5**  
+- **CSS3**
+
