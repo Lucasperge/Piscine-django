@@ -54,11 +54,10 @@ Structure de base HTML
  structure classique :
 
 Explication du code :
+`<form>` : définit un formulaire HTML pour soumettre des données.
 
-<form> : définit le formulaire.
+`<label>` : étiquette de texte décrivant le champ de saisie.
 
-<label> : décrit le champ de saisie.
+`<input>` : champ de saisie pour différents types de données (texte, email, mot de passe).
 
-<input> : champ de saisie, avec différents types (texte, email, mot de passe).
-
-<input type="submit"> : bouton pour soumettre le formulaire.
+`<input type="submit">` : bouton permettant de soumettre le formulaire.
