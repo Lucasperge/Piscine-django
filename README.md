@@ -52,3 +52,23 @@ Créer une page HTML contenant un formulaire simple permettant de saisir des inf
 Création du fichier HTML 
 Structure de base HTML 
  structure classique :
+
+Explication du code :
+
+<form> :
+La balise <form> délimite le formulaire et permet de collecter les données saisies.
+
+<label> :
+Chaque champ du formulaire est accompagné d'une étiquette <label> pour en décrire l'objet (par exemple, "Nom" ou "Email"). Elle est associée au champ grâce à l'attribut for.
+
+<input> :
+Les champs de saisie sont créés avec la balise <input>, dont le type varie selon l'information à entrer :
+
+type="text" pour le nom et le prénom.
+
+type="email" pour l'adresse email (avec validation automatique du format d'email).
+
+type="password" pour masquer le mot de passe.
+
+<input type="submit"> :
+Ce bouton permet de soumettre le formulaire une fois que l'utilisateur a rempli tous les champs.
