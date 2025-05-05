@@ -1,28 +1,45 @@
-Exercice 1 : Script Shell pour obtenir l'URL réelle d'un lien Bit.ly
-Objectif de l'exercice
-Cet exercice a pour but de créer un script shell qui, lorsqu'on lui donne un lien bit.ly, retourne l'URL réelle cachée derrière ce lien. En d'autres termes, le script suit la redirection HTTP et affiche l'URL finale.
-
-Exécution du script
-Pour exécuter le script avec un lien bit.ly, voici la commande à utiliser dans ton terminal :
-
-bash
-Copier
-Modifier
-./myawesomescript.sh bit.ly/1O72s3U
-Le script va automatiquement suivre la redirection du lien bit.ly et afficher l'URL réelle.
-
-Utilisation avec d'autres liens
-Si tu souhaites utiliser le script avec un autre lien bit.ly, il te suffit de remplacer le lien dans la commande :
-
-bash
-Copier
-Modifier
-./myawesomescript.sh https://bit.ly/abc123
-Résolution des problèmes de permission
-Si tu rencontres une erreur Permission denied lorsque tu exécutes le script, cela signifie que le script n'a pas encore les droits d'exécution. Pour résoudre ce problème, exécute une seule fois la commande suivante pour rendre le script exécutable :
-
-bash
-Copier
-Modifier
-chmod +x myawesomescript.sh
-Une fois cette commande exécutée, tu pourras relancer le script sans problème.
+Exo 0
+ 🐚 Utilisation du script myawesomescript.sh
+ ✅ 1. Rendre le script exécutable
+ Avant d'exécuter le script, il faut s'assurer qu'il a les permissions d'exécution :
+ 
+ bash
+ chmod +x myawesomescript.sh
+ 📁 Exécute cette commande depuis le dossier contenant le script (ex : django_0_Initiation/exo_00/).
+ 
+ 🚀 2. Exécuter le script
+ Une fois le script rendu exécutable, tu peux l'exécuter directement depuis le terminal :
+ 
+ bash
+ ./myawesomescript.sh
+ Pour tester un lien Bitly, utilise cette syntaxe :
+ 
+ bash
+ ./myawesomescript.sh https://bit.ly/xyz
+ 🔁 Remplace https://bit.ly/xyz par l'URL raccourcie que tu souhaites analyser.
+ 
+ ✅ Exercice 1 — CV en HTML : cv.html
+ 🎯 Objectif
+ Créer un CV en HTML/CSS respectant les bonnes pratiques de structure sémantique et de mise en forme, tout en appliquant des contraintes spécifiques de style.
+ 
+ ### 🧱 Contenu obligatoire
+ 
+ - **Nom & prénom**
+ - **Compétences**
+ - **Parcours**
+ - Utilisation des balises :
+   - `<title>` : titre de l'onglet
+   - `<h1>` : en-tête principal
+   - `<ul>`, `<ol>`, `<li>` : listes à puces et numérotées
+   - `<table>` : tableau structurant les informations
+ 
+ ---
+ 
+ ### 🎨 Contraintes de style
+ 
+ - Une partie des styles via une **balise `<style>` dans le `<head>`**
+ - Une autre partie via un **attribut `style="..."` directement sur une balise**
+ - Le tableau doit avoir :
+   - Bordures visibles (`solid`)
+   - Bordures fusionnées (`border-collapse: collapse`)
+ - La cellule en bas à droite du tableau doit avoir une **bordure de couleur `#424242`**
