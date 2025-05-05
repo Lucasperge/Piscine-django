@@ -61,3 +61,33 @@ Explication du code :
 `<input>` : champ de saisie pour différents types de données (texte, email, mot de passe).
 
 `<input type="submit">` : bouton permettant de soumettre le formulaire.
+
+Description du projet
+Dans cet exercice, création d'une page web interactive pour afficher nos compétences sous forme de barres de progression. Le but était de structurer les informations avec HTML et de les styliser avec CSS afin de rendre la page à la fois claire et esthétique.
+
+Détails du processus :
+Création du fichier HTML :
+
+Structuration de la page avec des éléments HTML comme des titres (<h2>) et des listes (<ul>, <li>).
+
+Chaque compétence (par exemple : HTML5, CSS3, jQuery, Python, PHP, Node.js) a été placée dans une barre de progression (<progress>), permettant de visualiser visuellement le niveau de chaque compétence.
+Stylisation avec le fichier CSS :
+
+On a créé un fichier CSS qui gère l’apparence de la page :
+
+Disposition : Les barres de progression ont été placées côte à côte, avec Frontend à gauche et Backend à droite.
+
+Couleurs : Les barres de progression utilisent un dégradé de couleurs allant du bleu au rouge pour rendre la page plus dynamique et visuellement intéressante.
+
+Positionnement : Les pourcentages ont été alignés juste au-dessus de chaque barre de progression pour une meilleure lisibilité.
+
+Organisation et présentation :
+
+On a organisé les compétences en deux catégories distinctes : Frontend et Backend, avec un titre en gras au-dessus de chaque groupe de compétences.
+
+Les barres ont été agrandies et les pourcentages ont été positionnés correctement, afin que chaque élément soit facilement visible.
+
+Résultat final :
+Une page web claire et esthétique présentant nos compétences de manière interactive, avec des barres de progression colorées et des pourcentages visibles.
+
+Un bon exemple d’utilisation combinée de HTML pour la structure et de CSS pour la mise en forme et la personnalisation.
