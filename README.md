@@ -43,3 +43,40 @@ Exo 0
    - Bordures visibles (`solid`)
    - Bordures fusionnées (`border-collapse: collapse`)
  - La cellule en bas à droite du tableau doit avoir une **bordure de couleur `#424242`**
+
+Exercice 2
+🛠️ Étapes réalisées :
+Création du fichier HTML 
+Structure de base HTML 
+ structure classique :
+
+html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Formulaire</title>
+</head>
+<body>
+...
+</body>
+</html>
+Ajout du formulaire :
+
+Tu as intégré la balise <form> avec les champs suivants :
+
+html
+<form>
+  <label for="nom">Nom :</label>
+  <input type="text" id="nom" name="nom"><br><br>
+
+  <label for="prenom">Prénom :</label>
+  <input type="text" id="prenom" name="prenom"><br><br>
+
+  <label for="email">Email :</label>
+  <input type="email" id="email" name="email"><br><br>
+
+  <label for="password">Mot de passe :</label>
+  <input type="password" id="password" name="password"><br><br>
+
+  <input type="submit" value="Envoyer">
+</form>
