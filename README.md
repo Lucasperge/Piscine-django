@@ -55,20 +55,10 @@ Structure de base HTML
 
 Explication du code :
 
-<form> :
-La balise <form> délimite le formulaire et permet de collecter les données saisies.
+<form> : définit le formulaire.
 
-<label> :
-Chaque champ du formulaire est accompagné d'une étiquette <label> pour en décrire l'objet (par exemple, "Nom" ou "Email"). Elle est associée au champ grâce à l'attribut for.
+<label> : décrit le champ de saisie.
 
-<input> :
-Les champs de saisie sont créés avec la balise <input>, dont le type varie selon l'information à entrer :
+<input> : champ de saisie, avec différents types (texte, email, mot de passe).
 
-type="text" pour le nom et le prénom.
-
-type="email" pour l'adresse email (avec validation automatique du format d'email).
-
-type="password" pour masquer le mot de passe.
-
-<input type="submit"> :
-Ce bouton permet de soumettre le formulaire une fois que l'utilisateur a rempli tous les champs.
+<input type="submit"> : bouton pour soumettre le formulaire.
