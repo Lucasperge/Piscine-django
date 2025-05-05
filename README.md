@@ -78,18 +78,15 @@ Disposition
 Les barres de progression ont été placées côte à côte, avec Frontend à gauche et Backend à droite, permettant une séparation claire des compétences.
 
 Couleurs
-Les barres de progression utilisent un dégradé allant du bleu au rouge, pour rendre la page visuellement intéressante et refléter l'intensité des compétences.
+Les barres de progression utilisent un dégradé allant du bleu au rouge, rendant la page visuellement dynamique.
 
 Positionnement
-Les pourcentages sont alignés juste au-dessus de chaque barre de progression pour une lisibilité optimale.
+Les pourcentages ont été placés juste au-dessus de chaque barre pour une meilleure lisibilité.
 
 Organisation et présentation
 Catégorisation claire : Les compétences sont divisées en deux groupes distincts : Frontend et Backend, avec un titre en gras au-dessus de chaque groupe.
 
-Agrandissement des barres : Les barres ont été agrandies et les pourcentages sont bien positionnés à la hauteur correspondante de chaque barre de progression.
+Agrandissement des barres : Les barres ont été agrandies et les pourcentages sont placés correctement à la hauteur correspondante.
 
 Résultat final
-La page est claire et esthétique, avec des barres de progression colorées et des pourcentages visibles. Le tout est structuré de manière à être facilement lisible.
-
-Ce projet illustre l’utilisation combinée de HTML pour la structure et de CSS pour la mise en forme et la personnalisation de la page web.
-
+Le résultat est une page web claire et esthétique, avec des barres de progression colorées et des pourcentages visibles. Le projet démontre l'utilisation de HTML pour la structure et de CSS pour la mise en forme et la personnalisation de la page.
