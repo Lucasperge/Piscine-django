@@ -45,6 +45,9 @@ Exo 0
  - La cellule en bas à droite du tableau doit avoir une **bordure de couleur `#424242`**
 
 Exercice 2
+🎯 Objectif :
+Créer une page HTML contenant un formulaire simple permettant de saisir des informations personnelles (nom, prénom, email, mot de passe), avec un bouton de soumission.
+
 🛠️ Étapes réalisées :
 Création du fichier HTML 
 Structure de base HTML 
